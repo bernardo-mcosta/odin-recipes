@@ -1,0 +1,2 @@
+# odin-recipes
+This is my first odin project, where I'm going to build a basic recipe website, which will consist of an index page with links to other recipes. The goal is to build my HTML skills, but it's also an opportunity to practice basic Git workflow.
